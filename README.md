@@ -50,9 +50,4 @@ To view this website, simply:
 
 *   **Hussein Salim** (Frontend Developer)
 
----
-
-This `readme.md` provides a good overview of your Basic HTML Website project. When you place this `readme.md` file in the same directory as your HTML files, it will be displayed nicely on platforms like GitHub, GitLab, or when someone opens the project folder.
-
-Let me know if you'd like to adjust anything in this `readme.md`!  For example, we could add a section about future enhancements or specific challenges you faced during the project.
  
